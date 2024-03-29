@@ -1,4 +1,7 @@
+Lets Begin!
+
 # Ingredients
+
 1 cup vital wheat gluten
 ¼ cup nutritional yeast
 1 tsp garlic powder
@@ -8,3 +11,5 @@
 ¾ cup vegetable broth
 2 tbsp soy sauce
 1 tbsp tomato paste
+
+Enjoy my recipe!
