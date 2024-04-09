@@ -1,6 +1,6 @@
-### This is a LOCAL change :)
-# recipe
-line 2 changed remotely
+# This is the Readme File
+### What to find in this directory?
+You will find recipes that Lianne likes.
 ## Seitan
 URL: https://theveganatlas.com/homemade-seitan-recipe/
 last line changed locally
