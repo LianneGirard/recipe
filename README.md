@@ -1,6 +1,7 @@
 # This is the Readme File
 ### What to find in this directory?
 You will find recipes that Lianne likes.
+These recipes are all <b>VEGAN!</b>! Wowzer!
 ### Recipes
 <ol>
   <li>Seitan</li>
@@ -9,8 +10,6 @@ You will find recipes that Lianne likes.
 
 #### Seitan
 <ul>
-    <li>URL: https://theveganatlas.com/homemade-seitan-recipe/</li>
+    <li> Plant-based meat substitute made from wheat gluten that mimics the flavor and texture of chicken</i>
+    <li><i>URL: https://theveganatlas.com/homemade-seitan-recipe/</i></li>
 </ul>
-
-last line changed locally
-### This is a REMOTE change :O
