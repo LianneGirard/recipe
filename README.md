@@ -9,6 +9,7 @@ These recipes are all <b>VEGAN!</b>! Wowzer!
 </ol>
 
 #### Seitan
+![Photo of Seitan](recipe.jpeg "San Juan Mountains")
 <ul>
     <li> Plant-based meat substitute made from wheat gluten that mimics the flavor and texture of chicken</i>
     <li><i>URL: https://theveganatlas.com/homemade-seitan-recipe/</i></li>
